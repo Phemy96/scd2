@@ -1,0 +1,1 @@
+SELECT * FROM scd2_project.mall_customers;
